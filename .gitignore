@@ -1,5 +1,16 @@
 # .gitignore
 
+*.class
+*.iml
+*.ipr
+*.iws
+*.launch
 
+.classpath
+.DS_Store
 .gradle
+.project
+.settings
 
+bin/
+build/
